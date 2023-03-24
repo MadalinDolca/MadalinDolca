@@ -4,4 +4,4 @@
 
 🔭 I'm currently working on my app development skills for Android
 
-⚡ Facts: At the core `enjoyer`, `enthusiast` and `ardent` have almost the same meaning
+⚡ Facts: At the core **enjoyer**, **enthusiast** and **ardent** have almost the same meaning
