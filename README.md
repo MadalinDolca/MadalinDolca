@@ -8,7 +8,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=MadalinDolca&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-### 👨🏻‍💻 Known Languages
+### 👨🏻‍💻 Known languages
 [![](https://skillicons.dev/icons?i=kotlin,java,c,cpp,cs,py,php,js,html,css&perline=5)](https://skillicons.dev)
 
 ### 🤖 IDEs and Editor
