@@ -19,3 +19,9 @@
 
 ### 🎨 What I use to design
 ![](https://github.com/MadalinDolca/MadalinDolca/blob/main/art/design.svg)
+
+### 📊 Stats
+
+![](https://github-readme-stats.vercel.app/api?username=MadalinDolca&hide_border=true&show_icons=true&icon_color=fff&bg_color=30,8e2de2,4a00e0&title_color=fff&text_color=fff)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadalinDolca&layout=compact&hide_border=true&bg_color=30,8e2de2,4a00e0&title_color=fff&text_color=fff)
